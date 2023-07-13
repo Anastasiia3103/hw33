@@ -1,0 +1,120 @@
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard <init>
+INFO: CoffeeOrderBoard initialized.
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard add
+INFO: Adding order for Allen
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard add
+INFO: Adding order for Yoda
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard add
+INFO: Adding order for Obi-wan
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard add
+INFO: Adding order for John Snow
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: Current state of the queue:
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: =================
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: Num | Name
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: 1 | Allen
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: 2 | Yoda
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: 3 | Obi-wan
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: 4 | John Snow
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: =================
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard deliver
+INFO: Delivering closest order.
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard deliver
+INFO: Delivered order: 1 | Allen
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: Current state of the queue:
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: =================
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: Num | Name
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: 2 | Yoda
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: 3 | Obi-wan
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: 4 | John Snow
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: =================
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard deliverByNumber
+INFO: No order with number 33 found.
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: Current state of the queue:
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: =================
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: Num | Name
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: 2 | Yoda
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: 3 | Obi-wan
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: 4 | John Snow
+июл. 13, 2023 11:33:45 PM hw33.CoffeeOrderBoard draw
+INFO: =================
+июл. 13, 2023 11:37:45 PM hw33.CoffeeOrderBoard <init>
+INFO: CoffeeOrderBoard initialized.
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard add
+INFO: Adding order for Allen
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard add
+INFO: Adding order for Yoda
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard add
+INFO: Adding order for Obi-wan
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard add
+INFO: Adding order for John Snow
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: Current state of the queue:
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: =================
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: Num | Name
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: 1 | Allen
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: 2 | Yoda
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: 3 | Obi-wan
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: 4 | John Snow
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: =================
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard deliver
+INFO: Delivering closest order.
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard deliver
+INFO: Delivered order: 1 | Allen
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: Current state of the queue:
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: =================
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: Num | Name
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: 2 | Yoda
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: 3 | Obi-wan
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: 4 | John Snow
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: =================
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard deliverByNumber
+INFO: No order with number 33 found.
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: Current state of the queue:
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: =================
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: Num | Name
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: 2 | Yoda
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: 3 | Obi-wan
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: 4 | John Snow
+июл. 13, 2023 11:37:46 PM hw33.CoffeeOrderBoard draw
+INFO: =================
